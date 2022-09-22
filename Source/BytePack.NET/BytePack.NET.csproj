@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	<Version>1.0.2</Version>
+	
+    <Authors>maxsgit1234</Authors>
+    <Description>Light-weight, manual binary object-serialization.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/maxsgit1234/BytePackage</PackageProjectUrl>
+    <PackageTags>serialization</PackageTags>
+    <PackageId>BytePack</PackageId>
+    <Company />
+    <Product>BytePack</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
